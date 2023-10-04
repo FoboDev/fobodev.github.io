@@ -1,2 +1,2 @@
 # fobodev.github.io
-This is thingy
+Welcome to this test page
